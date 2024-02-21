@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import Picture from "./components/picture";
+import Picture from "./components/Picture";
 
 function App() {
   const [word, setWord] = useState("");
